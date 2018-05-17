@@ -7,6 +7,15 @@ h1, h2, h3, h4, h5, h6, p {
   font-family: monospace;
 }
 
-a {
+a:link {
   color: orange;
+}
+
+a:hover {
+  color: red;
+  font-size: 110%;
+}
+
+a:visited {
+  color: white;
 }
