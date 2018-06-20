@@ -3,6 +3,20 @@ body {
   font-family: monospace;
 }
 
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-border {
+  border: 5px solid white;
+}
+
 a:link {
   color: orange;
 }
