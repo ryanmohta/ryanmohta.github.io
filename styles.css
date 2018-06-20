@@ -357,15 +357,13 @@ body {
 
 h1 {
   text-align: center;
-  font-family: "sf_pro_displaythin", Helvetica, sans-serif;
+  font-family: "sf_pro_displaymedium", Helvetica, sans-serif;
   font-size: 32px;
 }
 
 .social-icons {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  color: black;
+  text-align: center;
 }
 
 .social-icon {
@@ -376,5 +374,5 @@ h1 {
     height: 32px;
     width: 32px;
     display: inline-block;
-    fill: currentColor;
+    fill: black;
 }
