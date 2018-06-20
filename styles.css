@@ -128,17 +128,11 @@ body {
 }
 
 .img-border {
-  border: 10px solid white;
+  border: 8px solid white;
 }
 
-a:link {
-  color: orange;
-}
-
-a:hover {
-  font-size: 110%;
-}
-
-a:visited {
-  color: white;
+h1 {
+  text-align: center;
+  font-family: "SF Mono Medium", monospace;
+  font-size: 18px;
 }
