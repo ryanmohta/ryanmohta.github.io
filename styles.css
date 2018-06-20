@@ -372,8 +372,8 @@ h1 {
 }
 
 [class^="icon-"], [class*=" icon-"] {
-    height: 32px;
-    width: 32px;
+    height: 64px;
+    width: 64px;
     display: inline-block;
-    fill: black;
+    fill: blue;
 }
