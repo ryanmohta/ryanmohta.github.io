@@ -112,7 +112,7 @@
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: white;
   font-family: monospace;
   padding: 50px 300px 100px 300px;
 }
@@ -128,7 +128,7 @@ body {
 }
 
 .img-border {
-  border: 8px solid white;
+  border: 8px solid whitesmoke;
 }
 
 h1 {
