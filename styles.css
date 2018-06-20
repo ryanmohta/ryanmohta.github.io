@@ -370,5 +370,5 @@ h1 {
     height: 32px;
     width: 32px;
     display: inline-block;
-    fill: "black";
+    fill: currentColor;
 }
