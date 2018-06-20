@@ -362,7 +362,7 @@ body {
 
 h1 {
   text-align: center;
-  font-family: "sf_pro_displaymedium", Helvetica, sans-serif;
+  font-family: "sf_pro_displaysemibold", Helvetica, sans-serif;
   font-size: 32px;
 }
 
@@ -371,9 +371,12 @@ h1 {
   text-align: center;
 }
 
+svg {
+  fill: black;
+}
+
 [class^="icon-"], [class*=" icon-"] {
-    height: 64px;
-    width: 64px;
+    height: 32px;
+    width: 32px;
     display: inline-block;
-    fill: blue;
 }
