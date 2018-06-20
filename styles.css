@@ -336,7 +336,7 @@ body {
   font-family: "sf_pro_textregular";
   margin-left: auto;
   margin-right: auto;
-  width: 1000px;
+  width: 900px;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -374,5 +374,5 @@ h1 {
     height: 32px;
     width: 32px;
     display: inline-block;
-    fill: black;
+    fill: "black";
 }
