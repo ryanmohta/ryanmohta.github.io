@@ -332,6 +332,7 @@
 
 body {
   background-color: white;
+  color: black;
   font-family: "sf_pro_textregular";
   padding: 50px 250px 100px 250px;
 }
