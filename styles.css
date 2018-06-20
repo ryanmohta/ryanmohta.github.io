@@ -331,12 +331,16 @@
 
 
 body {
-  background-color: white;
+  background-color: lightgray;
   color: black;
   font-family: "sf_pro_textregular";
   margin-left: auto;
   margin-right: auto;
   width: 900px;
+}
+
+#main-div {
+  background-color: white;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -352,7 +356,7 @@ body {
 }
 
 .img-border {
-  border: 8px solid whitesmoke;
+  border: 8px solid lightgray;
 }
 
 h1 {
@@ -370,5 +374,5 @@ h1 {
     height: 32px;
     width: 32px;
     display: inline-block;
-    fill: currentColor;
+    fill: black;
 }
