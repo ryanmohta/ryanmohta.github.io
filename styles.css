@@ -334,7 +334,11 @@ body {
   background-color: white;
   color: black;
   font-family: "sf_pro_textregular";
-  padding: 50px 250px 100px 250px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .img-circle {
