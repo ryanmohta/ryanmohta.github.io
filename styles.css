@@ -360,9 +360,13 @@ h1 {
   display: block;
 }
 
+.social-icon {
+  display: inline-block;
+}
+
 [class^="icon-"], [class*=" icon-"] {
     height: 32px;
     width: 32px;
     display: inline-block;
-    fill: currentColor;
+    fill: black;
 }
