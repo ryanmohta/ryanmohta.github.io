@@ -3,11 +3,11 @@
 
 
 @font-face {
-    font-family: 'sf_monobold';
-    src: url('sfmono-bold.woff2') format('woff2'),
-         url('sfmono-bold.woff') format('woff'),
-         url('sfmono-bold.ttf') format('truetype'),
-         url('sfmono-bold.svg#sf_monobold') format('svg');
+    font-family: 'sf_pro_textmedium';
+    src: url('sf-pro-text-medium.woff2') format('woff2'),
+         url('sf-pro-text-medium.woff') format('woff'),
+         url('sf-pro-text-medium.ttf') format('truetype'),
+         url('sf-pro-text-medium.svg#sf_pro_textmedium') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -17,11 +17,11 @@
 
 
 @font-face {
-    font-family: 'sf_monobold_italic';
-    src: url('sfmono-bolditalic.woff2') format('woff2'),
-         url('sfmono-bolditalic.woff') format('woff'),
-         url('sfmono-bolditalic.ttf') format('truetype'),
-         url('sfmono-bolditalic.svg#sf_monobold_italic') format('svg');
+    font-family: 'sf_pro_textmedium_italic';
+    src: url('sf-pro-text-mediumitalic.woff2') format('woff2'),
+         url('sf-pro-text-mediumitalic.woff') format('woff'),
+         url('sf-pro-text-mediumitalic.ttf') format('truetype'),
+         url('sf-pro-text-mediumitalic.svg#sf_pro_textmedium_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -31,11 +31,11 @@
 
 
 @font-face {
-    font-family: 'sf_monoheavy';
-    src: url('sfmono-heavy.woff2') format('woff2'),
-         url('sfmono-heavy.woff') format('woff'),
-         url('sfmono-heavy.ttf') format('truetype'),
-         url('sfmono-heavy.svg#sf_monoheavy') format('svg');
+    font-family: 'sf_pro_textregular';
+    src: url('sf-pro-text-regular.woff2') format('woff2'),
+         url('sf-pro-text-regular.woff') format('woff'),
+         url('sf-pro-text-regular.ttf') format('truetype'),
+         url('sf-pro-text-regular.svg#sf_pro_textregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -45,11 +45,11 @@
 
 
 @font-face {
-    font-family: 'sf_monoheavy_italic';
-    src: url('sfmono-heavyitalic.woff2') format('woff2'),
-         url('sfmono-heavyitalic.woff') format('woff'),
-         url('sfmono-heavyitalic.ttf') format('truetype'),
-         url('sfmono-heavyitalic.svg#sf_monoheavy_italic') format('svg');
+    font-family: 'sf_pro_textitalic';
+    src: url('sf-pro-text-regularitalic.woff2') format('woff2'),
+         url('sf-pro-text-regularitalic.woff') format('woff'),
+         url('sf-pro-text-regularitalic.ttf') format('truetype'),
+         url('sf-pro-text-regularitalic.svg#sf_pro_textitalic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -59,11 +59,11 @@
 
 
 @font-face {
-    font-family: 'sf_monolight';
-    src: url('sfmono-light.woff2') format('woff2'),
-         url('sfmono-light.woff') format('woff'),
-         url('sfmono-light.ttf') format('truetype'),
-         url('sfmono-light.svg#sf_monolight') format('svg');
+    font-family: 'sf_pro_textsemibold';
+    src: url('sf-pro-text-semibold.woff2') format('woff2'),
+         url('sf-pro-text-semibold.woff') format('woff'),
+         url('sf-pro-text-semibold.ttf') format('truetype'),
+         url('sf-pro-text-semibold.svg#sf_pro_textsemibold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -73,95 +73,11 @@
 
 
 @font-face {
-    font-family: 'sf_monolight_italic';
-    src: url('sfmono-lightitalic.woff2') format('woff2'),
-         url('sfmono-lightitalic.woff') format('woff'),
-         url('sfmono-lightitalic.ttf') format('truetype'),
-         url('sfmono-lightitalic.svg#sf_monolight_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'sf_monomedium';
-    src: url('sfmono-medium.woff2') format('woff2'),
-         url('sfmono-medium.woff') format('woff'),
-         url('sfmono-medium.ttf') format('truetype'),
-         url('sfmono-medium.svg#sf_monomedium') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'sf_monomedium_italic';
-    src: url('sfmono-mediumitalic.woff2') format('woff2'),
-         url('sfmono-mediumitalic.woff') format('woff'),
-         url('sfmono-mediumitalic.ttf') format('truetype'),
-         url('sfmono-mediumitalic.svg#sf_monomedium_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'sf_monoregular';
-    src: url('sfmono-regular.woff2') format('woff2'),
-         url('sfmono-regular.woff') format('woff'),
-         url('sfmono-regular.ttf') format('truetype'),
-         url('sfmono-regular.svg#sf_monoregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'sf_monoregular_italic';
-    src: url('sfmono-regularitalic.woff2') format('woff2'),
-         url('sfmono-regularitalic.woff') format('woff'),
-         url('sfmono-regularitalic.ttf') format('truetype'),
-         url('sfmono-regularitalic.svg#sf_monoregular_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'sf_monosemibold';
-    src: url('sfmono-semibold.woff2') format('woff2'),
-         url('sfmono-semibold.woff') format('woff'),
-         url('sfmono-semibold.ttf') format('truetype'),
-         url('sfmono-semibold.svg#sf_monosemibold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'sf_monosemibold_italic';
-    src: url('sfmono-semibolditalic.woff2') format('woff2'),
-         url('sfmono-semibolditalic.woff') format('woff'),
-         url('sfmono-semibolditalic.ttf') format('truetype'),
-         url('sfmono-semibolditalic.svg#sf_monosemibold_italic') format('svg');
+    font-family: 'sf_pro_textsemibold_italic';
+    src: url('sf-pro-text-semibolditalic.woff2') format('woff2'),
+         url('sf-pro-text-semibolditalic.woff') format('woff'),
+         url('sf-pro-text-semibolditalic.ttf') format('truetype'),
+         url('sf-pro-text-semibolditalic.svg#sf_pro_textsemibold_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
