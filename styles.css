@@ -361,13 +361,9 @@ h1 {
   font-size: 32px;
 }
 
-.social-icons {
+#social {
   display: block;
   text-align: center;
-}
-
-.social-icon {
-  display: inline-block;
 }
 
 [class^="icon-"], [class*=" icon-"] {
