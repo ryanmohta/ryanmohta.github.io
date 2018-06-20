@@ -355,3 +355,11 @@ h1 {
   font-family: "sf_pro_displayregular", Helvetica, sans-serif;
   font-size: 32px;
 }
+
+.social-icons {
+  display: block;
+}
+
+.social-icon {
+  display: inline;
+}
