@@ -1,10 +1,10 @@
 /** Fonts **/
 @font-face {
     font-family: 'sf_pro_displayblack';
-    src: url('sf-pro-display-black.woff2') format('woff2'),
-         url('sf-pro-display-black.woff') format('woff'),
-         url('sf-pro-display-black.ttf') format('truetype'),
-         url('sf-pro-display-black.svg#sf_pro_displayblack') format('svg');
+    src: url('fonts/sf-pro-display-black.woff2') format('woff2'),
+         url('fonts/sf-pro-display-black.woff') format('woff'),
+         url('fonts/sf-pro-display-black.ttf') format('truetype'),
+         url('fonts/sf-pro-display-black.svg#sf_pro_displayblack') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -12,10 +12,10 @@
 
 @font-face {
     font-family: 'sf_pro_displayblack_italic';
-    src: url('sf-pro-display-blackitalic.woff2') format('woff2'),
-         url('sf-pro-display-blackitalic.woff') format('woff'),
-         url('sf-pro-display-blackitalic.ttf') format('truetype'),
-         url('sf-pro-display-blackitalic.svg#sf_pro_displayblack_italic') format('svg');
+    src: url('fonts/sf-pro-display-blackitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-blackitalic.woff') format('woff'),
+         url('fonts/sf-pro-display-blackitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-blackitalic.svg#sf_pro_displayblack_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -23,10 +23,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaybold';
-    src: url('sf-pro-display-bold.woff2') format('woff2'),
-         url('sf-pro-display-bold.woff') format('woff'),
-         url('sf-pro-display-bold.ttf') format('truetype'),
-         url('sf-pro-display-bold.svg#sf_pro_displaybold') format('svg');
+    src: url('fonts/sf-pro-display-bold.woff2') format('woff2'),
+         url('fonts/sf-pro-display-bold.woff') format('woff'),
+         url('fonts/sf-pro-display-bold.ttf') format('truetype'),
+         url('fonts/sf-pro-display-bold.svg#sf_pro_displaybold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -34,10 +34,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaybold_italic';
-    src: url('sf-pro-display-bolditalic.woff2') format('woff2'),
-         url('sf-pro-display-bolditalic.woff') format('woff'),
-         url('sf-pro-display-bolditalic.ttf') format('truetype'),
-         url('sf-pro-display-bolditalic.svg#sf_pro_displaybold_italic') format('svg');
+    src: url('fonts/sf-pro-display-bolditalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-bolditalic.woff') format('woff'),
+         url('fonts/sf-pro-display-bolditalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-bolditalic.svg#sf_pro_displaybold_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -45,10 +45,10 @@
 
 @font-face {
     font-family: 'sf_pro_displayheavy';
-    src: url('sf-pro-display-heavy.woff2') format('woff2'),
-         url('sf-pro-display-heavy.woff') format('woff'),
-         url('sf-pro-display-heavy.ttf') format('truetype'),
-         url('sf-pro-display-heavy.svg#sf_pro_displayheavy') format('svg');
+    src: url('fonts/sf-pro-display-heavy.woff2') format('woff2'),
+         url('fonts/sf-pro-display-heavy.woff') format('woff'),
+         url('fonts/sf-pro-display-heavy.ttf') format('truetype'),
+         url('fonts/sf-pro-display-heavy.svg#sf_pro_displayheavy') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -56,10 +56,10 @@
 
 @font-face {
     font-family: 'sf_pro_displayheavy_italic';
-    src: url('sf-pro-display-heavyitalic.woff2') format('woff2'),
-         url('sf-pro-display-heavyitalic.woff') format('woff'),
-         url('sf-pro-display-heavyitalic.ttf') format('truetype'),
-         url('sf-pro-display-heavyitalic.svg#sf_pro_displayheavy_italic') format('svg');
+    src: url('fonts/sf-pro-display-heavyitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-heavyitalic.woff') format('woff'),
+         url('fonts/sf-pro-display-heavyitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-heavyitalic.svg#sf_pro_displayheavy_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -67,10 +67,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaylight';
-    src: url('sf-pro-display-light.woff2') format('woff2'),
-         url('sf-pro-display-light.woff') format('woff'),
-         url('sf-pro-display-light.ttf') format('truetype'),
-         url('sf-pro-display-light.svg#sf_pro_displaylight') format('svg');
+    src: url('fonts/sf-pro-display-light.woff2') format('woff2'),
+         url('fonts/sf-pro-display-light.woff') format('woff'),
+         url('fonts/sf-pro-display-light.ttf') format('truetype'),
+         url('fonts/sf-pro-display-light.svg#sf_pro_displaylight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -78,10 +78,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaylight_italic';
-    src: url('sf-pro-display-lightitalic.woff2') format('woff2'),
-         url('sf-pro-display-lightitalic.woff') format('woff'),
-         url('sf-pro-display-lightitalic.ttf') format('truetype'),
-         url('sf-pro-display-lightitalic.svg#sf_pro_displaylight_italic') format('svg');
+    src: url('fonts/sf-pro-display-lightitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-lightitalic.woff') format('woff'),
+         url('fonts/sf-pro-display-lightitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-lightitalic.svg#sf_pro_displaylight_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -89,10 +89,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaymedium';
-    src: url('sf-pro-display-medium.woff2') format('woff2'),
-         url('sf-pro-display-medium.woff') format('woff'),
-         url('sf-pro-display-medium.ttf') format('truetype'),
-         url('sf-pro-display-medium.svg#sf_pro_displaymedium') format('svg');
+    src: url('fonts/sf-pro-display-medium.woff2') format('woff2'),
+         url('fonts/sf-pro-display-medium.woff') format('woff'),
+         url('fonts/sf-pro-display-medium.ttf') format('truetype'),
+         url('fonts/sf-pro-display-medium.svg#sf_pro_displaymedium') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -100,10 +100,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaymedium_italic';
-    src: url('sf-pro-display-mediumitalic.woff2') format('woff2'),
-         url('sf-pro-display-mediumitalic.woff') format('woff'),
-         url('sf-pro-display-mediumitalic.ttf') format('truetype'),
-         url('sf-pro-display-mediumitalic.svg#sf_pro_displaymedium_italic') format('svg');
+    src: url('fonts/sf-pro-display-mediumitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-mediumitalic.woff') format('woff'),
+         url('fonts/sf-pro-display-mediumitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-mediumitalic.svg#sf_pro_displaymedium_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -111,10 +111,10 @@
 
 @font-face {
     font-family: 'sf_pro_displayregular';
-    src: url('sf-pro-display-regular.woff2') format('woff2'),
-         url('sf-pro-display-regular.woff') format('woff'),
-         url('sf-pro-display-regular.ttf') format('truetype'),
-         url('sf-pro-display-regular.svg#sf_pro_displayregular') format('svg');
+    src: url('fonts/sf-pro-display-regular.woff2') format('woff2'),
+         url('fonts/sf-pro-display-regular.woff') format('woff'),
+         url('fonts/sf-pro-display-regular.ttf') format('truetype'),
+         url('fonts/sf-pro-display-regular.svg#sf_pro_displayregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -122,10 +122,10 @@
 
 @font-face {
     font-family: 'sf_pro_displayitalic';
-    src: url('sf-pro-display-regularitalic.woff2') format('woff2'),
-         url('sf-pro-display-regularitalic.woff') format('woff'),
-         url('sf-pro-display-regularitalic.ttf') format('truetype'),
-         url('sf-pro-display-regularitalic.svg#sf_pro_displayitalic') format('svg');
+    src: url('fonts/sf-pro-display-regularitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-regularitalic.woff') format('woff'),
+         url('fonts/sf-pro-display-regularitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-regularitalic.svg#sf_pro_displayitalic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -133,10 +133,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaysemibold';
-    src: url('sf-pro-display-semibold.woff2') format('woff2'),
-         url('sf-pro-display-semibold.woff') format('woff'),
-         url('sf-pro-display-semibold.ttf') format('truetype'),
-         url('sf-pro-display-semibold.svg#sf_pro_displaysemibold') format('svg');
+    src: url('fonts/sf-pro-display-semibold.woff2') format('woff2'),
+         url('fonts/sf-pro-display-semibold.woff') format('woff'),
+         url('fonts/sf-pro-display-semibold.ttf') format('truetype'),
+         url('fonts/sf-pro-display-semibold.svg#sf_pro_displaysemibold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -144,10 +144,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaysemibold_italic';
-    src: url('sf-pro-display-semibolditalic.woff2') format('woff2'),
-         url('sf-pro-display-semibolditalic.woff') format('woff'),
-         url('sf-pro-display-semibolditalic.ttf') format('truetype'),
-         url('sf-pro-display-semibolditalic.svg#sf_pro_displaysemibold_italic') format('svg');
+    src: url('fonts/sf-pro-display-semibolditalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-semibolditalic.woff') format('woff'),
+         url('fonts/sf-pro-display-semibolditalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-semibolditalic.svg#sf_pro_displaysemibold_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -155,10 +155,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaythin';
-    src: url('sf-pro-display-thin.woff2') format('woff2'),
-         url('sf-pro-display-thin.woff') format('woff'),
-         url('sf-pro-display-thin.ttf') format('truetype'),
-         url('sf-pro-display-thin.svg#sf_pro_displaythin') format('svg');
+    src: url('fonts/sf-pro-display-thin.woff2') format('woff2'),
+         url('fonts/sf-pro-display-thin.woff') format('woff'),
+         url('fonts/sf-pro-display-thin.ttf') format('truetype'),
+         url('fonts/sf-pro-display-thin.svg#sf_pro_displaythin') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -166,10 +166,10 @@
 
 @font-face {
     font-family: 'sf_pro_displaythin_italic';
-    src: url('sf-pro-display-thinitalic.woff2') format('woff2'),
-         url('sf-pro-display-thinitalic.woff') format('woff'),
-         url('sf-pro-display-thinitalic.ttf') format('truetype'),
-         url('sf-pro-display-thinitalic.svg#sf_pro_displaythin_italic') format('svg');
+    src: url('fonts/sf-pro-display-thinitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-thinitalic.woff') format('woff'),
+         url('fonts/sf-pro-display-thinitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-thinitalic.svg#sf_pro_displaythin_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -177,10 +177,10 @@
 
 @font-face {
     font-family: 'sf_pro_displayultralight';
-    src: url('sf-pro-display-ultralight.woff2') format('woff2'),
-         url('sf-pro-display-ultralight.woff') format('woff'),
-         url('sf-pro-display-ultralight.ttf') format('truetype'),
-         url('sf-pro-display-ultralight.svg#sf_pro_displayultralight') format('svg');
+    src: url('fonts/sf-pro-display-ultralight.woff2') format('woff2'),
+         url('fonts/sf-pro-display-ultralight.woff') format('woff'),
+         url('fonts/sf-pro-display-ultralight.ttf') format('truetype'),
+         url('fonts/sf-pro-display-ultralight.svg#sf_pro_displayultralight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -188,10 +188,10 @@
 
 @font-face {
     font-family: 'sf_pro_displayultraLtIt';
-    src: url('sf-pro-display-ultralightitalic.woff2') format('woff2'),
-         url('sf-pro-display-ultralightitalic.woff') format('woff'),
-         url('sf-pro-display-ultralightitalic.ttf') format('truetype'),
-         url('sf-pro-display-ultralightitalic.svg#sf_pro_displayultraLtIt') format('svg');
+    src: url('fonts/sf-pro-display-ultralightitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-display-ultralightitalic.woff') format('woff'),
+         url('fonts/sf-pro-display-ultralightitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-display-ultralightitalic.svg#sf_pro_displayultraLtIt') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -199,10 +199,10 @@
 
 @font-face {
     font-family: 'sf_pro_textbold';
-    src: url('sf-pro-text-bold.woff2') format('woff2'),
-         url('sf-pro-text-bold.woff') format('woff'),
-         url('sf-pro-text-bold.ttf') format('truetype'),
-         url('sf-pro-text-bold.svg#sf_pro_textbold') format('svg');
+    src: url('fonts/sf-pro-text-bold.woff2') format('woff2'),
+         url('fonts/sf-pro-text-bold.woff') format('woff'),
+         url('fonts/sf-pro-text-bold.ttf') format('truetype'),
+         url('fonts/sf-pro-text-bold.svg#sf_pro_textbold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -210,10 +210,10 @@
 
 @font-face {
     font-family: 'sf_pro_textbold_italic';
-    src: url('sf-pro-text-bolditalic.woff2') format('woff2'),
-         url('sf-pro-text-bolditalic.woff') format('woff'),
-         url('sf-pro-text-bolditalic.ttf') format('truetype'),
-         url('sf-pro-text-bolditalic.svg#sf_pro_textbold_italic') format('svg');
+    src: url('fonts/sf-pro-text-bolditalic.woff2') format('woff2'),
+         url('fonts/sf-pro-text-bolditalic.woff') format('woff'),
+         url('fonts/sf-pro-text-bolditalic.ttf') format('truetype'),
+         url('fonts/sf-pro-text-bolditalic.svg#sf_pro_textbold_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -221,10 +221,10 @@
 
 @font-face {
     font-family: 'sf_pro_textheavy';
-    src: url('sf-pro-text-heavy.woff2') format('woff2'),
-         url('sf-pro-text-heavy.woff') format('woff'),
-         url('sf-pro-text-heavy.ttf') format('truetype'),
-         url('sf-pro-text-heavy.svg#sf_pro_textheavy') format('svg');
+    src: url('fonts/sf-pro-text-heavy.woff2') format('woff2'),
+         url('fonts/sf-pro-text-heavy.woff') format('woff'),
+         url('fonts/sf-pro-text-heavy.ttf') format('truetype'),
+         url('fonts/sf-pro-text-heavy.svg#sf_pro_textheavy') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -232,10 +232,10 @@
 
 @font-face {
     font-family: 'sf_pro_textheavy_italic';
-    src: url('sf-pro-text-heavyitalic.woff2') format('woff2'),
-         url('sf-pro-text-heavyitalic.woff') format('woff'),
-         url('sf-pro-text-heavyitalic.ttf') format('truetype'),
-         url('sf-pro-text-heavyitalic.svg#sf_pro_textheavy_italic') format('svg');
+    src: url('fonts/sf-pro-text-heavyitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-text-heavyitalic.woff') format('woff'),
+         url('fonts/sf-pro-text-heavyitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-text-heavyitalic.svg#sf_pro_textheavy_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -243,10 +243,10 @@
 
 @font-face {
     font-family: 'sf_pro_textlight';
-    src: url('sf-pro-text-light.woff2') format('woff2'),
-         url('sf-pro-text-light.woff') format('woff'),
-         url('sf-pro-text-light.ttf') format('truetype'),
-         url('sf-pro-text-light.svg#sf_pro_textlight') format('svg');
+    src: url('fonts/sf-pro-text-light.woff2') format('woff2'),
+         url('fonts/sf-pro-text-light.woff') format('woff'),
+         url('fonts/sf-pro-text-light.ttf') format('truetype'),
+         url('fonts/sf-pro-text-light.svg#sf_pro_textlight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -254,10 +254,10 @@
 
 @font-face {
     font-family: 'sf_pro_textlight_italic';
-    src: url('sf-pro-text-lightitalic.woff2') format('woff2'),
-         url('sf-pro-text-lightitalic.woff') format('woff'),
-         url('sf-pro-text-lightitalic.ttf') format('truetype'),
-         url('sf-pro-text-lightitalic.svg#sf_pro_textlight_italic') format('svg');
+    src: url('fonts/sf-pro-text-lightitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-text-lightitalic.woff') format('woff'),
+         url('fonts/sf-pro-text-lightitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-text-lightitalic.svg#sf_pro_textlight_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -265,10 +265,10 @@
 
 @font-face {
     font-family: 'sf_pro_textmedium';
-    src: url('sf-pro-text-medium.woff2') format('woff2'),
-         url('sf-pro-text-medium.woff') format('woff'),
-         url('sf-pro-text-medium.ttf') format('truetype'),
-         url('sf-pro-text-medium.svg#sf_pro_textmedium') format('svg');
+    src: url('fonts/sf-pro-text-medium.woff2') format('woff2'),
+         url('fonts/sf-pro-text-medium.woff') format('woff'),
+         url('fonts/sf-pro-text-medium.ttf') format('truetype'),
+         url('fonts/sf-pro-text-medium.svg#sf_pro_textmedium') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -276,10 +276,10 @@
 
 @font-face {
     font-family: 'sf_pro_textmedium_italic';
-    src: url('sf-pro-text-mediumitalic.woff2') format('woff2'),
-         url('sf-pro-text-mediumitalic.woff') format('woff'),
-         url('sf-pro-text-mediumitalic.ttf') format('truetype'),
-         url('sf-pro-text-mediumitalic.svg#sf_pro_textmedium_italic') format('svg');
+    src: url('fonts/sf-pro-text-mediumitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-text-mediumitalic.woff') format('woff'),
+         url('fonts/sf-pro-text-mediumitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-text-mediumitalic.svg#sf_pro_textmedium_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -287,10 +287,10 @@
 
 @font-face {
     font-family: 'sf_pro_textregular';
-    src: url('sf-pro-text-regular.woff2') format('woff2'),
-         url('sf-pro-text-regular.woff') format('woff'),
-         url('sf-pro-text-regular.ttf') format('truetype'),
-         url('sf-pro-text-regular.svg#sf_pro_textregular') format('svg');
+    src: url('fonts/sf-pro-text-regular.woff2') format('woff2'),
+         url('fonts/sf-pro-text-regular.woff') format('woff'),
+         url('fonts/sf-pro-text-regular.ttf') format('truetype'),
+         url('fonts/sf-pro-text-regular.svg#sf_pro_textregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -298,10 +298,10 @@
 
 @font-face {
     font-family: 'sf_pro_textitalic';
-    src: url('sf-pro-text-regularitalic.woff2') format('woff2'),
-         url('sf-pro-text-regularitalic.woff') format('woff'),
-         url('sf-pro-text-regularitalic.ttf') format('truetype'),
-         url('sf-pro-text-regularitalic.svg#sf_pro_textitalic') format('svg');
+    src: url('fonts/sf-pro-text-regularitalic.woff2') format('woff2'),
+         url('fonts/sf-pro-text-regularitalic.woff') format('woff'),
+         url('fonts/sf-pro-text-regularitalic.ttf') format('truetype'),
+         url('fonts/sf-pro-text-regularitalic.svg#sf_pro_textitalic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -309,10 +309,10 @@
 
 @font-face {
     font-family: 'sf_pro_textsemibold';
-    src: url('sf-pro-text-semibold.woff2') format('woff2'),
-         url('sf-pro-text-semibold.woff') format('woff'),
-         url('sf-pro-text-semibold.ttf') format('truetype'),
-         url('sf-pro-text-semibold.svg#sf_pro_textsemibold') format('svg');
+    src: url('fonts/sf-pro-text-semibold.woff2') format('woff2'),
+         url('fonts/sf-pro-text-semibold.woff') format('woff'),
+         url('fonts/sf-pro-text-semibold.ttf') format('truetype'),
+         url('fonts/sf-pro-text-semibold.svg#sf_pro_textsemibold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -320,10 +320,10 @@
 
 @font-face {
     font-family: 'sf_pro_textsemibold_italic';
-    src: url('sf-pro-text-semibolditalic.woff2') format('woff2'),
-         url('sf-pro-text-semibolditalic.woff') format('woff'),
-         url('sf-pro-text-semibolditalic.ttf') format('truetype'),
-         url('sf-pro-text-semibolditalic.svg#sf_pro_textsemibold_italic') format('svg');
+    src: url('fonts/sf-pro-text-semibolditalic.woff2') format('woff2'),
+         url('fonts/sf-pro-text-semibolditalic.woff') format('woff'),
+         url('fonts/sf-pro-text-semibolditalic.ttf') format('truetype'),
+         url('fonts/sf-pro-text-semibolditalic.svg#sf_pro_textsemibold_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
