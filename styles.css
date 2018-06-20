@@ -358,6 +358,9 @@ h1 {
 
 .social-icons {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
 }
 
 .social-icon {
@@ -368,5 +371,5 @@ h1 {
     height: 32px;
     width: 32px;
     display: inline-block;
-    fill: black;
+    fill: currentColor;
 }
