@@ -379,6 +379,9 @@ h1 {
   width: 32px;
   display: inline-block;
   fill: black;
+}
+
+.span-padded {
   padding-left: 3%;
   padding-right: 3%;
 }
