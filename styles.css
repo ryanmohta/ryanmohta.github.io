@@ -333,7 +333,8 @@
 body {
   background-color: white;
   color: black;
-  font-family: "sf_pro_textregular";
+  font-family: "sf_pro_textregular", Helvetica, sans-serif;
+  margin: 100px 0px 100px 0px;
 }
 
 .gutter {
