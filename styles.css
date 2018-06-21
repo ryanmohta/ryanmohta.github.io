@@ -340,6 +340,15 @@ body {
   background-color: whitesmoke;
 }
 
+.main {
+  padding: 10% 5% 10% 5%;
+}
+
+.mycontainer {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
 .img-circle {
   border-radius: 50%;
 }
