@@ -331,19 +331,13 @@
 
 
 body {
-  background-color: whitesmoke;
+  background-color: white;
   color: black;
   font-family: "sf_pro_textregular";
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  width: 1100px;
 }
 
-#main-div {
-  background-color: white;
-  padding: 50px 100px 50px 100px;
+.gutter {
+  border-color: whitesmoke;
 }
 
 .img-circle {
