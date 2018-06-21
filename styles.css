@@ -331,17 +331,14 @@
 
 
 body {
-  background-color: white;
+  background-color: whitesmoke;
   color: black;
   font-family: "sf_pro_textregular", Helvetica, sans-serif;
   font-size: 16px;
 }
 
-.gutter {
-  background-color: whitesmoke;
-}
-
 .main {
+  background-color: white;
   padding: 5%;
 }
 
