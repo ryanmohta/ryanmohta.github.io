@@ -335,7 +335,7 @@ body {
   background-color: whitesmoke;
   color: black;
   font-family: "sf_pro_textregular", Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 24px;
 }
 
 .main {
@@ -349,13 +349,13 @@ body {
 }
 
 #profile {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 8px solid lightgray;
+  border: 10px solid lightgray;
 }
 
 h1 {
@@ -370,8 +370,8 @@ h1 {
 }
 
 .social-icon {
-  height: 32px;
-  width: 32px;
+  height: 64px;
+  width: 64px;
   display: inline-block;
   fill: black;
 }
