@@ -329,6 +329,7 @@
 
 }
 
+/* Extra small devices (portrait phones, less than 576px) */
 
 body {
   background-color: whitesmoke;
@@ -347,17 +348,13 @@ body {
   margin-bottom: 5%;
 }
 
-.img-circle {
+#profile {
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
-}
-
-.img-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-.img-border {
   border: 8px solid lightgray;
 }
 
@@ -382,4 +379,98 @@ h1 {
 .span-padded {
   padding-left: 3%;
   padding-right: 3%;
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  body {
+    font-size: 24px;
+  }
+
+  #profile {
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+  }
+
+  h1 {
+    font-size: 200%;
+  }
+
+  .social-icon {
+    height: 64px;
+    width: 64px;
+  }
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  #profile {
+    width: 200px;
+    height: 200px;
+    border-width: 8px;
+  }
+
+  h1 {
+    font-size: 200%;
+  }
+
+  .social-icon {
+    height: 32px;
+    width: 32px;
+  }
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  body {
+    font-size: 16px;
+  }
+
+  #profile {
+    width: 200px;
+    height: 200px;
+    border-width: 8px;
+  }
+
+  h1 {
+    font-size: 200%;
+  }
+
+  .social-icon {
+    height: 32px;
+    width: 32px;
+  }
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  body {
+    font-size: 16px;
+  }
+
+  #profile {
+    width: 200px;
+    height: 200px;
+    border-width: 8px;
+  }
+
+  h1 {
+    font-size: 200%;
+  }
+
+  .social-icon {
+    height: 32px;
+    width: 32px;
+  }
+
 }
