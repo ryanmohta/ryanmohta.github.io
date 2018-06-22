@@ -329,17 +329,15 @@
 
 }
 
-/* Extra small devices (portrait phones, less than 576px) */
-
 body {
   background-color: whitesmoke;
   color: black;
   font-family: "sf_pro_textregular", Helvetica, sans-serif;
-  font-size: 24px;
+  font-size: 16px;
 }
 
 .main {
-  background-color: red;
+  background-color: white;
   padding: 5%;
 }
 
@@ -349,13 +347,13 @@ body {
 }
 
 #profile {
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 10px solid lightgray;
+  border: 8px solid lightgray;
 }
 
 h1 {
@@ -370,8 +368,8 @@ h1 {
 }
 
 .social-icon {
-  height: 64px;
-  width: 64px;
+  height: 32px;
+  width: 32px;
   display: inline-block;
   fill: black;
 }
@@ -382,17 +380,11 @@ h1 {
 }
 
 
-/* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {
+/* Portrait devices such as phones */
+@media (orientation: portrait) {
   body {
     font-size: 24px;
   }
-
-  .main {
-    background-color: orange;
-    padding: 5%;
-  }
-
 
   #profile {
     width: 300px;
@@ -407,94 +399,6 @@ h1 {
   .social-icon {
     height: 64px;
     width: 64px;
-  }
-
-}
-
-
-/* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-  body {
-    font-size: 16px;
-  }
-
-  .main {
-    background-color: yellow;
-    padding: 5%;
-  }
-
-
-  #profile {
-    width: 200px;
-    height: 200px;
-    border-width: 8px;
-  }
-
-  h1 {
-    font-size: 200%;
-  }
-
-  .social-icon {
-    height: 32px;
-    width: 32px;
-  }
-
-}
-
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-  body {
-    font-size: 16px;
-  }
-
-  .main {
-    background-color: green;
-    padding: 5%;
-  }
-
-
-  #profile {
-    width: 200px;
-    height: 200px;
-    border-width: 8px;
-  }
-
-  h1 {
-    font-size: 200%;
-  }
-
-  .social-icon {
-    height: 32px;
-    width: 32px;
-  }
-
-}
-
-/* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-  body {
-    font-size: 16px;
-  }
-
-  .main {
-    background-color: blue;
-    padding: 5%;
-  }
-
-
-  #profile {
-    width: 200px;
-    height: 200px;
-    border-width: 8px;
-  }
-
-  h1 {
-    font-size: 200%;
-  }
-
-  .social-icon {
-    height: 32px;
-    width: 32px;
   }
 
 }
