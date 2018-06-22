@@ -339,7 +339,7 @@ body {
 }
 
 .main {
-  background-color: white;
+  background-color: red;
   padding: 5%;
 }
 
@@ -388,6 +388,12 @@ h1 {
     font-size: 24px;
   }
 
+  .main {
+    background-color: orange;
+    padding: 5%;
+  }
+
+
   #profile {
     width: 300px;
     height: 300px;
@@ -412,6 +418,12 @@ h1 {
     font-size: 16px;
   }
 
+  .main {
+    background-color: yellow;
+    padding: 5%;
+  }
+
+
   #profile {
     width: 200px;
     height: 200px;
@@ -435,6 +447,12 @@ h1 {
     font-size: 16px;
   }
 
+  .main {
+    background-color: green;
+    padding: 5%;
+  }
+
+
   #profile {
     width: 200px;
     height: 200px;
@@ -457,6 +475,12 @@ h1 {
   body {
     font-size: 16px;
   }
+
+  .main {
+    background-color: blue;
+    padding: 5%;
+  }
+
 
   #profile {
     width: 200px;
