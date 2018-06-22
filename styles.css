@@ -383,13 +383,13 @@ h1 {
 /* Portrait devices such as phones */
 @media (orientation: portrait) {
   body {
-    font-size: 24px;
+    font-size: 32px;
   }
 
   #profile {
-    width: 300px;
-    height: 300px;
-    border-width: 10px;
+    width: 400px;
+    height: 400px;
+    border-width: 15px;
   }
 
   h1 {
@@ -397,8 +397,8 @@ h1 {
   }
 
   .social-icon {
-    height: 64px;
-    width: 64px;
+    height: 96px;
+    width: 96px;
   }
 
 }
