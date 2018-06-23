@@ -353,7 +353,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 8px solid lightgray;
+  /*border: 8px solid lightgray;*/
 }
 
 h1 {
