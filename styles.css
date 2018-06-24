@@ -353,7 +353,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  /*border: 8px solid lightgray;*/
+  border: 5px solid lightgray;
 }
 
 h1 {
@@ -429,7 +429,7 @@ h1 {
   #profile {
     width: 400px;
     height: 400px;
-    border-width: 15px;
+    border-width: 10px;
   }
 
   h1 {
