@@ -379,8 +379,7 @@ h1 {
   padding-right: 3%;
 }
 
-/* Tooltip */
-.test + .tooltip > .tooltip-inner {
+.tooltip {
     font-family: "Times New Roman", Helvetica, sans-serif;
     font-size: 16px;
 }
