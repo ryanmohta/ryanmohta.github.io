@@ -362,6 +362,10 @@ h1 {
   font-size: 200%;
 }
 
+a.no-underline {
+    text-decoration: none;
+}
+
 #social {
   display: block;
   text-align: center;
