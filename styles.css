@@ -379,6 +379,12 @@ h1 {
   padding-right: 3%;
 }
 
+/* Tooltip */
+.test + .tooltip > .tooltip-inner {
+    font-family: "sf_pro_textregular", Helvetica, sans-serif;
+    font-size: 16px;
+}
+
 
 /* Portrait devices such as phones */
 @media (orientation: portrait) {
