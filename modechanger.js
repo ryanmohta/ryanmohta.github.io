@@ -2,8 +2,8 @@ var date = new Date();
 var hours = date.getHours();
 var cssLinkIndex = 2;
 if(hours < 7 || hours > 17) {
-  var oldlink = document.getElementsByTagName("link").item(cssLinkIndex);
-  oldlink.href = "stylesheets/darkmode.css";
+  //var oldlink = document.getElementsByTagName("link").item(cssLinkIndex);
+  document.getElementById("modecss").href = "stylesheets/darkmode.css";
 }
 else {
   var oldlink = document.getElementsByTagName("link").item(cssLinkIndex);
