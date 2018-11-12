@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+  color: black;
+}
+
+.main {
+  background-color: white;
+}
+
+#profile {
+  border: 5px solid lightgray;
+}
+
+.social-icon {
+  fill: black;
+}
