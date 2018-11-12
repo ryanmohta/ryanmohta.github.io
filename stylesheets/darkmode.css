@@ -1,5 +1,9 @@
+:root {
+  --darkcolor = rgb(10, 10, 10)
+}
+
 body {
-  background-color: dimgray;
+  background-color: var(--darkcolor);
   color: white;
 }
 
@@ -8,7 +12,7 @@ body {
 }
 
 #profile {
-  border: 5px solid darkgray;
+  border: 5px solid var(--darkcolor);
 }
 
 .social-icon {
