@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: var(--darkcolor);
   color: lightgray;
 }
 
@@ -12,7 +12,7 @@ h1 {
 }
 
 .main {
-  background-color: var(--darkcolor);
+  background-color: black;
 }
 
 #profile {
