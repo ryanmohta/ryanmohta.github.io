@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: var(--darkcolor);
+  background-color: black;
   color: lightgray;
 }
 
@@ -12,7 +12,7 @@ h1 {
 }
 
 .main {
-  background-color: black;
+  background-color: var(--darkcolor);
 }
 
 #profile {
@@ -20,5 +20,5 @@ h1 {
 }
 
 .social-icon {
-  fill: whitesmoke;
+  fill: white;
 }
