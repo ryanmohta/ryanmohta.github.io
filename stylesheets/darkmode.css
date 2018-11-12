@@ -4,6 +4,10 @@
 
 body {
   background-color: var(--darkcolor);
+  color: lightgray;
+}
+
+h1 {
   color: white;
 }
 

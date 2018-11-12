@@ -6,13 +6,4 @@ if(hours < 7 || hours > 17) {
 }
 else {
   document.getElementsByTagName("link")[cssLinkIndex].href = "stylesheets/lightmode.css";
-  /*var oldlink = document.getElementsByTagName("link").item(cssLinkIndex);
-
-    var newlink = document.createElement("link");
-    newlink.setAttribute("rel", "stylesheet");
-    newlink.setAttribute("type", "text/css");
-    newlink.setAttribute("href", "stylesheets/lightmode.css");
-
-    document.getElementsByTagName("head").item(0).replaceChild(newlink, oldlink);*/
-
 }
