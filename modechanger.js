@@ -4,9 +4,9 @@ var timerVariable = setInterval(myTimer, 1000);
 
 function myTimer() {
   var date = new Date();
-  var hours = date.getHours();
+  var hour = date.getHours();
   var cssLinkIndex = 2;
-  if(hours < 7 || hours > 17) {
+  if(hour < 7 || (hour > 16 && minute > 29) || hour > 17) {
     document.getElementsByTagName("link")[cssLinkIndex].href = "stylesheets/darkmode.css";
   }
   else {
